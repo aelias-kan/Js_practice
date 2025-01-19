@@ -30,3 +30,12 @@ p{
 {
     display: none;
 }
+
+.fruits_btn
+{
+    background-color: cornflowerblue;
+    color: white;
+    width: 150px;
+    height: 35px;
+    border-radius: 5px;
+}
